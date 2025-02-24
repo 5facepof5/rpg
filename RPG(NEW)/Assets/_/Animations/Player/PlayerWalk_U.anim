@@ -21,13 +21,37 @@ AnimationClip:
   - serializedVersion: 2
     curve:
     - time: 0
-      value: {fileID: -533808377379871310, guid: 67c7dcb5c158f594191d463928ab2000, type: 3}
-    - time: 0.11666667
-      value: {fileID: 8684849432152715159, guid: 67c7dcb5c158f594191d463928ab2000, type: 3}
-    - time: 0.23333333
-      value: {fileID: 3957054383331799821, guid: 67c7dcb5c158f594191d463928ab2000, type: 3}
-    - time: 0.35
-      value: {fileID: -259296209607558121, guid: 67c7dcb5c158f594191d463928ab2000, type: 3}
+      value: {fileID: 21300000, guid: ba57ecae6d0688848a66d755eec6a573, type: 3}
+    - time: 0.083333336
+      value: {fileID: 21300000, guid: c347d2018566d194c9d3686763a48212, type: 3}
+    - time: 0.16666667
+      value: {fileID: 21300000, guid: aaa2c132805b62e4ebb95d861613c9ac, type: 3}
+    - time: 0.25
+      value: {fileID: 21300000, guid: f0ca85f2af7acbd44b6355a6fd5f5a99, type: 3}
+    - time: 0.33333334
+      value: {fileID: 21300000, guid: bd76924b320e8e14cad1dcee97813d0d, type: 3}
+    - time: 0.41666666
+      value: {fileID: 21300000, guid: 564910539b8680246a110e78d4ecb66f, type: 3}
+    - time: 0.5
+      value: {fileID: 21300000, guid: 8f1f1a60ad907584c92100b96d3d7adb, type: 3}
+    - time: 0.5833333
+      value: {fileID: 21300000, guid: fe0a6d78df9a7ba4da3a4b5703c509c8, type: 3}
+    - time: 0.6666667
+      value: {fileID: 21300000, guid: da88b11eb573ad541b9996e1effc3c07, type: 3}
+    - time: 0.75
+      value: {fileID: 21300000, guid: 5c1952dee75052a439d7f8adba0c8d2e, type: 3}
+    - time: 0.8333333
+      value: {fileID: 21300000, guid: c877078aeff44574eb9046c3780ac461, type: 3}
+    - time: 0.9166667
+      value: {fileID: 21300000, guid: 67e74e1ed25199b4dba76989f5bb8b37, type: 3}
+    - time: 1
+      value: {fileID: 21300000, guid: 4650bad143ad9d542b071d267d48d3d0, type: 3}
+    - time: 1.0833334
+      value: {fileID: 21300000, guid: 4650bad143ad9d542b071d267d48d3d0, type: 3}
+    - time: 1.1666666
+      value: {fileID: 21300000, guid: fb6d7a53240e0e14a9bb35b8884d3862, type: 3}
+    - time: 1.25
+      value: {fileID: 21300000, guid: e98a2ffc368fa144aaa37517dd51d2e5, type: 3}
     attribute: m_Sprite
     path: 
     classID: 212
@@ -50,16 +74,28 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     pptrCurveMapping:
-    - {fileID: -533808377379871310, guid: 67c7dcb5c158f594191d463928ab2000, type: 3}
-    - {fileID: 8684849432152715159, guid: 67c7dcb5c158f594191d463928ab2000, type: 3}
-    - {fileID: 3957054383331799821, guid: 67c7dcb5c158f594191d463928ab2000, type: 3}
-    - {fileID: -259296209607558121, guid: 67c7dcb5c158f594191d463928ab2000, type: 3}
+    - {fileID: 21300000, guid: ba57ecae6d0688848a66d755eec6a573, type: 3}
+    - {fileID: 21300000, guid: c347d2018566d194c9d3686763a48212, type: 3}
+    - {fileID: 21300000, guid: aaa2c132805b62e4ebb95d861613c9ac, type: 3}
+    - {fileID: 21300000, guid: f0ca85f2af7acbd44b6355a6fd5f5a99, type: 3}
+    - {fileID: 21300000, guid: bd76924b320e8e14cad1dcee97813d0d, type: 3}
+    - {fileID: 21300000, guid: 564910539b8680246a110e78d4ecb66f, type: 3}
+    - {fileID: 21300000, guid: 8f1f1a60ad907584c92100b96d3d7adb, type: 3}
+    - {fileID: 21300000, guid: fe0a6d78df9a7ba4da3a4b5703c509c8, type: 3}
+    - {fileID: 21300000, guid: da88b11eb573ad541b9996e1effc3c07, type: 3}
+    - {fileID: 21300000, guid: 5c1952dee75052a439d7f8adba0c8d2e, type: 3}
+    - {fileID: 21300000, guid: c877078aeff44574eb9046c3780ac461, type: 3}
+    - {fileID: 21300000, guid: 67e74e1ed25199b4dba76989f5bb8b37, type: 3}
+    - {fileID: 21300000, guid: 4650bad143ad9d542b071d267d48d3d0, type: 3}
+    - {fileID: 21300000, guid: 4650bad143ad9d542b071d267d48d3d0, type: 3}
+    - {fileID: 21300000, guid: fb6d7a53240e0e14a9bb35b8884d3862, type: 3}
+    - {fileID: 21300000, guid: e98a2ffc368fa144aaa37517dd51d2e5, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 0.36666667
+    m_StopTime: 1.2666667
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
